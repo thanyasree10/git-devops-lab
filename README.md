@@ -4,6 +4,8 @@
 I am learning Git and GitHub practically using VS Code.
 
 This repository contains my Git and DevOps practice on the main branch.
+
+
 ## What I am learning
 
 - Git fundamentals
