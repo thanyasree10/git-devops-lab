@@ -21,3 +21,5 @@ Working on the monitoring feature branch
 Practising fast-forward merge
 Learning GitHub Pull Requests practically.
 Code review practice: initial version.
+Code review feedback: I am learning how to improve code based on reviewer comments.
+
