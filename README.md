@@ -21,3 +21,4 @@ Working on the monitoring feature branch
 Practising fast-forward merge
 Learning GitHub Pull Requests practically.
 Code review practice: initial version.
+Code reviews improve code quality through feedback and collaboration.
