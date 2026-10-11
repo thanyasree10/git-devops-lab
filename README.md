@@ -22,3 +22,4 @@ Practising fast-forward merge
 Learning GitHub Pull Requests practically.
 Code review practice: initial version.
 Code reviews improve code quality through feedback and collaboration.
+Developers respond to review comments by updating code, committing changes, and pushing them to the same branch.
