@@ -2,6 +2,9 @@
 name: My First Workflow
 
 on:
+  push:
+    branches:
+      - feature/github-actions-practice
   workflow_dispatch:
 
 jobs:
